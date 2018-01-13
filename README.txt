@@ -1,2 +1,3 @@
 # repo1
-Moja zmiana na masterze
+To jest finalna zmiana
+
