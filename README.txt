@@ -1,2 +1,2 @@
 # repo1
-Dodaje szybkiego fixa
+Moja zmiana na masterze
