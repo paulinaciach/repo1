@@ -1,3 +1,3 @@
-Jakis tekst
+jakis tekst
 Druga Linijka
-Trzcia Linijke
+Trzecia linijka
