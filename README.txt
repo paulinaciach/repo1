@@ -1,3 +1,3 @@
 # repo1
-To jest finalna zmiana
+To jest zmaina na masterz
 
