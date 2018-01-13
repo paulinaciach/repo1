@@ -1,3 +1,4 @@
 # repo1
-To jest finalna zmiana
+To jest zmiana na Galezi4
+
 
